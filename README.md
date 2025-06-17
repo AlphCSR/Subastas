@@ -1,3 +1,7 @@
+pnpm install
+pnpm run dev
+
+
 ## **1. Autenticación y Gestión de Usuarios**
 
 ### 1.1. Vista de Registro
